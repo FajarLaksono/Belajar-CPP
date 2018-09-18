@@ -1,9 +1,13 @@
 ### Tutorial Lengkap Belajar Bahasa Pemrograman C++
 
 #### Bab 0 Pengenalan
+
 0.1 [Pengertian Komputer](https://www.belajarcpp.com/tutorial/komputer/)
+
 0.2 [Sistem Bilangan](https://www.belajarcpp.com/tutorial/sistem-bilangan/)
+
 0.3 [Sejarah Bahasa Pemrograman](https://www.belajarcpp.com/tutorial/sejarah-bahasa-pemrograman/)
+
 0.4 [Pengenalan Bahasa Pemrograman C++](https://www.belajarcpp.com/tutorial/cpp/pengenalan-cpp/)
 0.5 [Sejarah Bahasa Pemrograman C++](https://www.belajarcpp.com/tutorial/cpp/sejarah-cpp/)
 0.6 [Pengertian Kompilator](https://www.belajarcpp.com/tutorial/cpp/pengertian-kompilator/)
